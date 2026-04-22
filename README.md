@@ -87,3 +87,11 @@ These insights help support data-driven decision-making.
 ## 🛡️ License
 
 This project is licensed under the MIT License. You are free to use and modify it with attribution.
+
+## 📚 Acknowledgment
+
+This project was built by following and learning from the following tutorial:
+
+- [SQL Data Warehouse Project (YouTube)](https://www.youtube.com/watch?v=9GVqKuTVANE&t=3751s)
+
+I used this tutorial as a guide and adapted the implementation to better understand data warehousing concepts and best practices.
